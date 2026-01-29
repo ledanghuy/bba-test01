@@ -265,6 +265,8 @@
 
       ● Thay thế ký tự trong chuỗi
 
+      ● Array utils function : https://www.youtube.com/watch?v=gH1SZK98ipM
+
 
 
 
