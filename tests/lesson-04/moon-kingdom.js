@@ -68,13 +68,9 @@ function printLeaderboard() {
 
     }
 
-    return players;
-
-
-
 }
 
-console.log(printLeaderboard());
+printLeaderboard();
 
 
 
