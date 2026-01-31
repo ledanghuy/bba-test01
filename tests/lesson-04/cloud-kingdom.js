@@ -4,7 +4,7 @@ let powerUp = "star";
 let effect = "";
 
 if (powerUp === "mushroom") {
-    effect = " Mario becomes Super!";
+    effect = "Mario becomes Super!";
 } else if (powerUp === "flower") {
     effect = "Mario can shoot fireballs!";
 } else if (powerUp === "star") {
